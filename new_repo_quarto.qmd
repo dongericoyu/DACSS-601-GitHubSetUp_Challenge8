@@ -14,4 +14,6 @@ categories:
   - challenge_8
 ---
 
-Let's try editing the quarto file.
+Task#1: Let's try editing the quarto file.
+
+Task#2: I had teriyaki salmon and rice for today's lunch.
